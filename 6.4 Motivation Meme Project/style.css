@@ -1,0 +1,27 @@
+* {
+  background-color: black;
+}
+
+#heading {
+  color: white;
+  text-transform: uppercase;
+}
+
+#paragraph {
+  color: white;
+}
+
+img {
+  border: 5px solid white;
+  width: 100%;
+  margin-top: 50px;
+}
+
+* {
+  text-align: center;
+}
+
+#main-div {
+  width: 50%;
+  margin-left: 25%;
+}
